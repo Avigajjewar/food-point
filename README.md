@@ -1,6 +1,12 @@
 # food-point  
  [Click here](https://avigajjewar.github.io/food-point/) 
  <br/>
-This is a frontend web application of restaurant , in this we can categorized the food items by its type , also select the food items and its quantity ,  all the selected food items appear in the cart . cart contains each items quantity , price , remove tab ,  total   and  payment button . 
+- Developed a user-friendly frontend web application for a restaurant,
+enabling easy categorization of food items by type.
+- Implemented features allowing users to select food items, specify
+quantities, and view all selected items in the cart.
+- Designed the cart interface to display individual item quantities,
+prices, and a remove option, as well as total cost and a secure
+payment button.
 
  

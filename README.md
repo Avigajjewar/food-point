@@ -1,12 +1,31 @@
-# food-point  
- [Click here](https://avigajjewar.github.io/food-point/) 
- <br/>
-- Developed a user-friendly frontend web application for a restaurant,
-enabling easy categorization of food items by type.
-- Implemented features allowing users to select food items, specify
-quantities, and view all selected items in the cart.
-- Designed the cart interface to display individual item quantities,
-prices, and a remove option, as well as total cost and a secure
-payment button.
+# Food-Point – Food Ordering Web App
+
+A modern, mobile-first food ordering web application built using React.js,
+focused on performance, scalability, and clean UI.
+
+## 🚀 Features
+- Responsive mobile-first UI
+- Category-based product filtering
+- Live cart updates
+- Reusable React components
+- Optimized rendering and fast load time
+
+## 🛠 Tech Stack
+- React.js (Hooks)
+- JavaScript (ES6+)
+- Tailwind CSS
+- REST APIs
+
+## 🧠 Key Learnings
+- Component reusability and modular architecture
+- State management best practices
+- Performance optimization and re-render control
+
+## 📸 Screenshots
+(Add 2–3 screenshots here)
+
+## 🔗 Live Demo
+https://your-project-link.vercel.app
+
 
  

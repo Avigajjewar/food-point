@@ -21,11 +21,7 @@ focused on performance, scalability, and clean UI.
 - State management best practices
 - Performance optimization and re-render control
 
-## 📸 Screenshots
-(Add 2–3 screenshots here)
 
-## 🔗 Live Demo
-https://your-project-link.vercel.app
 
 
  
